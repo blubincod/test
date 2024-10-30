@@ -1,3 +1,3 @@
 public class Test {
-    System.out
+    System
 }
