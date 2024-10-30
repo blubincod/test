@@ -4,4 +4,5 @@ public class Test {
     System
 
     test 5 : (test3 merge 전, test2랑 test4 내용만 포함한 상태)
+    hello
 }
